@@ -1,0 +1,304 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap" />
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5">
+
+    <!-- ================= HERO ================= -->
+    <mj-section background-url="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/bdc1cf73-0e06-7108-cf12-60b5de255c5f.png" background-size="cover" background-repeat="no-repeat" padding="24px">
+      <mj-column>
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/295e3791-1021-5d52-7330-8be2042b8956.png" width="129px" alt="Logo CINC" />
+        <mj-text font-size="36px" font-weight="400" line-height="39px" color="#ffffff" align="center" padding="32px 0 16px 0">
+          Bienvenidos a nuestra <span style="font-weight:800;">Newsletter</span>
+        </mj-text>
+        <mj-text font-size="16px" line-height="18px" color="#ffffff" align="center" padding="0 20% 16px 20%">
+          Descubre las noticias más destacadas hasta la fecha.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3c3c3b" padding="28px 2px">
+      <mj-column>
+        <mj-text font-size="14px" line-height="16px" color="#ffffff" align="center">
+          Con esta newsletter queremos acercarte las últimas novedades, proyectos y oportunidades que están transformando el ecosistema nuclear en Cantabria.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================= VIII EDICIÓN ================= -->
+    <mj-section background-color="#ffffff" padding="32px 0px 40px 0px">
+      <mj-column width="44%">
+        <mj-image padding="0px" src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/91e5bbc1-125a-2355-ec8d-4f8f2139efce.jpg" width="224px" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="800" font-size="20px" color="#000" line-height="18px" padding="10px">
+          VIII Edición del Encuentro con el Talento UC
+        </mj-text>
+        <mj-text font-size="16px" line-height="18px" color="#000" padding="7px">
+          El pasado 20 de marzo se celebró la Octava Edición de Encuentro con el Talento organizada por la ETS de Ingenieros Industriales y de Telecomunicación de la Universidad de Cantabria.<br/><br/>
+          El CINC estuvo presente en esta jornada, donde la Universidad de Cantabria nos dio la oportunidad de contar con un espacio para poder mostrar a los alumnos que pasaron por nuestro stand, en qué consiste el clúster y las empresas que lo componen.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0071b3" padding="20px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-weight="700" font-size="16px" line-height="18px">
+          ¡La captación de talento es uno de los pilares estratégicos de las empresas socias del CINC!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================= TALLER ================= -->
+    <mj-section background-color="#E4F2Fa" padding="20px">
+      <mj-column width="100%">
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b2d3ac16-7126-3be4-d627-832e5beefbca.jpg" width="565px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E4F2Fa" padding="20px">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text font-weight="800" font-size="20px" color="#000">Taller “Habla menos, vende más”</mj-text>
+        <mj-text font-size="16px" line-height="18px" color="#000">
+          El pasado 16 de abril, organizamos una formación muy especial de la mano de <a style="color:#000;" href="#">Mónica Bóbeda Allende</a>, quien impartió su taller <b>"Habla menos, vende más"</b> en las instalaciones del <a style="color:#000;" href="#">CIE Santander</a>.<br/><br/>
+          Una jornada muy dinámica en la que aprendimos a comunicar con más intención, más impacto... <b>y menos palabras</b>.
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle"  background-color="#0071b3"  border-radius="14px" >
+        <mj-text padding="24px 40px" color="#fff" font-weight="700" font-size="16px" line-height="16px" align="center">
+          "El mensaje si breve, tres veces bueno"<br/><br/>
+          <span style="font-weight:400; font-style:italic; font-size:12px;">- El Show de la Palabra.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================= ITER BUSINESS FORUM ================= -->
+    <mj-section background-color="#ffffff"  padding="32px 0px 40px 0px">
+      <mj-column width="45%">
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/5ae900c4-bdf8-f8f7-ba32-9cb4b10f4c26.jpg" width="224px" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="800" font-size="20px" color="#000" line-height="18px">
+          ITER Business Forum-IBF/25
+        </mj-text>
+        <mj-text font-size="16px" line-height="18px" color="#000" padding="10px">
+          El CINC participó activamente en el ITER Business Forum celebrado en Marsella del 23 al 25 de abril, uno de los encuentros internacionales más importantes del sector de la fusión nuclear.<br/><br/>
+          Fue una excelente oportunidad para conectar con la industria global, además, el evento incluyó reuniones individuales B2B diseñadas para impulsar colaboraciones y alianzas. <b>La presencia del clúster subraya el dinamismo y el potencial de la industria nuclear en Cantabria</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0071b3" padding="20px 0px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-weight="700" font-size="16px" line-height="18px">
+          ¡Seguimos impulsando el crecimiento y la innovación!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-spacer height="20px" />
+  </mj-column>
+</mj-section>
+
+    
+
+    <!-- ================= PREMIO WOMEN ================= -->
+    <mj-section background-color="#d0d0d0" padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/839d6be2-895e-ba25-b327-27b5cef6896e.jpg" width="565px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d0d0d0" padding="0px">
+      <mj-column width="50%">
+        <mj-text font-weight="800" font-size="20px" color="#000">Premio Women in Nuclear (WiN) Spain 2025</mj-text>
+        <mj-text font-size="16px" line-height="18px" color="#000">
+          Nos complace compartir, que <b>María Vega, presidenta de nuestro clúster ha sido nominada a los Premios Women in Nuclear (WiN).</b><br/><br/>
+          Esta nominación es un reconocimiento más que merecido a su trayectoria.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="16px" line-height="18px" color="#000">
+          El premio se entregará a la candidata más votada por soci@s WIN en la <b>Cena Oficial de la Reunión Anual de la Sociedad Nuclear Española el próximo 25 de septiembre de 2025.</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================= EVENTOS ================= -->
+    <mj-section background-color="#3c3c3b" padding="20px 0">
+  <mj-column>
+    <mj-text font-family="Montserrat, sans-serif" align="center" font-size="20px" font-weight="800" color="#ffffff" padding="0 0 20px">
+      PRÓXIMOS EVENTOS...
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#3c3c3b" padding="0 12px">
+ 
+  <!-- Evento 1 -->
+  <mj-column background-color="#ffffff" border-radius="10px" padding="0 8px" vertical-align="top" width="184px">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2519d619-f385-9941-cae0-d36b127aab18.jpg" alt="Evento 1" width="159px" padding="20px 0" />
+    <mj-text font-size="14px" color="#3c3c3b" align="center" padding="0 0 10px">
+      El principal punto de encuentro para los profesionales del sector nuclear en España
+    </mj-text>
+    <mj-spacer height="28px" />
+    <mj-text font-size="14px" font-weight="600" color="#0071b4" align="center">Cáceres</mj-text>
+    <mj-text font-size="12px" font-weight="600" color="#0071b4" align="center">22-26 de septiembre 2025</mj-text>
+  </mj-column>
+  
+   <mj-column width="12px">
+    <mj-spacer></mj-spacer>
+  </mj-column>
+     
+  <!-- Evento 2 -->
+  <mj-column background-color="#ffffff" border-radius="10px" padding="0 8px" vertical-align="top" width="184px">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/34ea20b5-50b9-99f5-7c07-6daafdd3f17a.jpg" alt="Evento 2" width="165px" padding="20px 0" />
+    <mj-text font-size="14px" color="#3c3c3b" align="center" padding="0 0 40px">
+      La principal exposición nuclear civil del mundo
+    </mj-text>
+    <mj-text font-size="14px" font-weight="600" color="#0071b4" align="center">París</mj-text>
+    <mj-text font-size="12px" font-weight="600" color="#0071b4" align="center">4-6 de noviembre 2025</mj-text>
+  </mj-column>
+  
+   <mj-column width="12px">
+    <mj-spacer></mj-spacer>
+  </mj-column>
+ 
+  <!-- Evento 3 -->
+  <mj-column background-color="#ffffff" border-radius="10px" padding="0 8px" vertical-align="top" width="184px">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b02ba30c-b396-9838-348c-6cdf8805c7d8.jpg" alt="Evento 3" width="164px" padding="20px 0" />
+    <mj-text font-size="14px" color="#3c3c3b" align="center" padding="0 0 30px">
+      Primer foro de la Industria de la Ciencia en España
+    </mj-text>
+      <mj-spacer height="6px" />
+    <mj-text font-size="14px" font-weight="600" color="#0071b4" align="center">Madrid</mj-text>
+    <mj-text font-size="12px" font-weight="600" color="#0071b4" align="center">3-4 de diciembre 2025</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#3c3c3b" padding="20px 0">
+  <mj-column>
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+      Saber más
+    </mj-button>
+  </mj-column>
+  <mj-column>
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+      Saber más
+    </mj-button>
+  </mj-column>
+  <mj-column>
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+      Saber más
+    </mj-button>
+  </mj-column>
+</mj-section>
+    <!-- ================= ASOCIADOS ================= -->
+   <mj-section background-color="#ffffff" padding="20px 0">
+  <mj-column>
+    <mj-text font-family="Montserrat, sans-serif" font-weight="800" font-size="20px" color="#0071b3" align="center">
+      ASOCIADOS
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<!-- Fila 1 -->
+<mj-section background-color="#ffffff" padding="0">
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/27b781a6-1441-4469-691a-9d4cad77ce7b.jpg" alt="arriaj" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd72b43c-a41b-0adb-ed8b-9b7019c89532.jpg" alt="atecsol" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd53de5b-4074-84c3-bda4-4b14e856c04b.jpg" alt="tejasa" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2879af38-81c1-6831-d994-ee3d50fddc4d.jpg" alt="tonus" />
+  </mj-column>
+</mj-section>
+
+<!-- Fila 2 -->
+<mj-section background-color="#ffffff" padding="0">
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/95d1659e-5425-62ff-3479-c10f8f58d87f.jpg" alt="cic" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/5fa53f40-5011-c61c-653f-f92e713289b9.jpg" alt="ctc" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/961b7f5d-4074-b9d0-702c-6e51a2324ab6.jpg" alt="ensa" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9fba8b8f-4823-b2a5-8332-2258794211ca.jpg" alt="celsa" />
+  </mj-column>
+</mj-section>
+
+<!-- Fila 3 -->
+<mj-section background-color="#ffffff" padding="0">
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/16edcc1c-43fd-ff40-022b-3926537930e0.jpg" alt="fab" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/de40c362-f74a-25de-c1f8-88678ea913b5.jpg" alt="motusa" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e0e27334-4ac2-b418-d3b8-b3fe8c601fbe.jpg" alt="sgs" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/62233014-79cc-55f7-5446-a35eeb56d4e2.jpg" alt="enwesa" />
+  </mj-column>
+</mj-section>
+
+<!-- Fila 4 -->
+<mj-section background-color="#ffffff" padding="0">
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9ee80b3b-276e-8c2e-e90a-c97efbfabb81.jpg" alt="newetsol" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)" >
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2ea9aaad-5b5c-0e72-9fdc-058b2ce38155.jpg" alt="sodercan" margin-top="10px" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b50e4355-a6a1-3a60-079f-e5421e251bb3.jpg" alt="veringer" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e11e178e-3e60-39ff-8d5d-f4343ee72fd7.jpg" alt="ingecid" />
+  </mj-column>
+</mj-section>
+
+<!-- Fila 5 -->
+<mj-section background-color="#ffffff" padding="0 0 20px">
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b4d412ef-bfc1-d92e-f064-3f5a05f40c94.jpg" alt="seys" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/db7c3c4a-e40f-f216-014d-e263803cdcd2.jpg" alt="uc" />
+  </mj-column>
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/508128ff-72d7-0aef-d2a8-3068219a34fc.jpg" alt="awge" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/523a1103-0985-f3ca-e83b-8f207114c356.jpg" alt="reinosa" />
+  </mj-column>
+</mj-section>
+
+    <!-- ================= FOOTER ================= -->
+    <mj-section background-color="#3C3C3B" padding="20px">
+      <mj-column>
+        <mj-text font-size="14px" color="#ffffff" align="center">
+          ¡Síguenos en redes!
+        </mj-text>
+        <mj-social font-size="13px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element name="linkedin" href="https://linkedin.com" />
+          <mj-social-element name="web" href="https://cinc.com" />
+        </mj-social>
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/295e3791-1021-5d52-7330-8be2042b8956.png" width="77px" alt="logo" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
