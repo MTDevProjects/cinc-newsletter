@@ -182,17 +182,17 @@
 </mj-section>
 <mj-section background-color="#3c3c3b" padding="20px 0">
   <mj-column>
-    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px"  href="https://www.reunionanualsne.es/">
       Saber más
     </mj-button>
   </mj-column>
   <mj-column>
-    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px" href="https://www.world-nuclear-exhibition.com/en-gb.html?gad_source=1&gad_campaignid=22760648523&gbraid=0AAAAA_fXUbnO2EVvCxkeBOkl3vIUJQaiz&gclid=Cj0KCQjwn8XFBhCxARIsAMyH8BsWR5pr7DQDxx7CZUeV1AWeFRem3gEX9RoVmVK7KIe5Y2nYUOwbPFgaAnYQEALw_wcB#/">
       Saber más
     </mj-button>
   </mj-column>
   <mj-column>
-    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px">
+    <mj-button background-color="#ffffff" border-radius="50px" color="#3c3c3b" font-size="16px" font-weight="600" padding="12px 24px" href="https://www.bsifs2025.es/" >
       Saber más
     </mj-button>
   </mj-column>
@@ -209,96 +209,120 @@
 <!-- Fila 1 -->
 <mj-section background-color="#ffffff" padding="0">
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/27b781a6-1441-4469-691a-9d4cad77ce7b.jpg" alt="arriaj" />
+    <mj-image width="88px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/27b781a6-1441-4469-691a-9d4cad77ce7b.jpg" alt="arriaj" href="https://talleresarriaj.com" />
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd72b43c-a41b-0adb-ed8b-9b7019c89532.jpg" alt="atecsol" />
+    <mj-image width="91px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd72b43c-a41b-0adb-ed8b-9b7019c89532.jpg" alt="atecsol" href="https://atecsol.com" /> 
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd53de5b-4074-84c3-bda4-4b14e856c04b.jpg" alt="tejasa" />
+    <mj-image width="82px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/cd53de5b-4074-84c3-bda4-4b14e856c04b.jpg" alt="tejasa" href="http://www.tejasa.es" /> 
   </mj-column>
   <mj-column width="25%">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2879af38-81c1-6831-d994-ee3d50fddc4d.jpg" alt="tonus" />
+    <mj-image width="80px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2879af38-81c1-6831-d994-ee3d50fddc4d.jpg" alt="tonus" href="https://www.tonuserv.com" /> 
   </mj-column>
 </mj-section>
 
 <!-- Fila 2 -->
 <mj-section background-color="#ffffff" padding="0">
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/95d1659e-5425-62ff-3479-c10f8f58d87f.jpg" alt="cic" />
+    <mj-image width="69px" src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/95d1659e-5425-62ff-3479-c10f8f58d87f.jpg" alt="cic" href="https://www.cic.es" /> 
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/5fa53f40-5011-c61c-653f-f92e713289b9.jpg" alt="ctc" />
+    <mj-image width="87px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/5fa53f40-5011-c61c-653f-f92e713289b9.jpg" alt="ctc" href="https://centrotecnologicoctc.com" /> 
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/961b7f5d-4074-b9d0-702c-6e51a2324ab6.jpg" alt="ensa" />
+    <mj-image width="81px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/961b7f5d-4074-b9d0-702c-6e51a2324ab6.jpg" alt="ensa" href="https://www.ensa.es" /> 
   </mj-column>
   <mj-column width="25%">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9fba8b8f-4823-b2a5-8332-2258794211ca.jpg" alt="celsa" />
+    <mj-image width="98px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9fba8b8f-4823-b2a5-8332-2258794211ca.jpg" alt="celsa" href="https://globalsteelwire.com/en/" /> 
   </mj-column>
 </mj-section>
 
 <!-- Fila 3 -->
 <mj-section background-color="#ffffff" padding="0">
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/16edcc1c-43fd-ff40-022b-3926537930e0.jpg" alt="fab" />
+    <mj-image width="56px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/16edcc1c-43fd-ff40-022b-3926537930e0.jpg" alt="fab" href="https://www.fabe-bizdev.com" /> 
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/de40c362-f74a-25de-c1f8-88678ea913b5.jpg" alt="motusa" />
+    <mj-image width="69px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/de40c362-f74a-25de-c1f8-88678ea913b5.jpg" alt="motusa" href="https://www.motusa.es/es" /> 
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e0e27334-4ac2-b418-d3b8-b3fe8c601fbe.jpg" alt="sgs" />
+    <mj-image width="60px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e0e27334-4ac2-b418-d3b8-b3fe8c601fbe.jpg" alt="sgs" href="https://www.sgs.com/es-es" />
   </mj-column>
   <mj-column width="25%">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/62233014-79cc-55f7-5446-a35eeb56d4e2.jpg" alt="enwesa" />
+    <mj-image width="90px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/62233014-79cc-55f7-5446-a35eeb56d4e2.jpg" alt="enwesa" href="https://www.enwesa.com" />
   </mj-column>
 </mj-section>
 
 <!-- Fila 4 -->
 <mj-section background-color="#ffffff" padding="0">
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9ee80b3b-276e-8c2e-e90a-c97efbfabb81.jpg" alt="newetsol" />
+    <mj-image width="77px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/9ee80b3b-276e-8c2e-e90a-c97efbfabb81.jpg" alt="newetsol" href="https://newtesol.com" />
   </mj-column>
-  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)" >
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2ea9aaad-5b5c-0e72-9fdc-058b2ce38155.jpg" alt="sodercan" margin-top="10px" />
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)" padding-top="15px" >
+    <mj-image width="93px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/2ea9aaad-5b5c-0e72-9fdc-058b2ce38155.jpg" alt="sodercan" href="https://www.sodercan.es"  margin-top="10px" />
   </mj-column>
-  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b50e4355-a6a1-3a60-079f-e5421e251bb3.jpg" alt="veringer" />
+  <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)" padding-top="10px">
+    <mj-image width="103px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b50e4355-a6a1-3a60-079f-e5421e251bb3.jpg" alt="veringer" href="https://veringer.com" />
   </mj-column>
-  <mj-column width="25%">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e11e178e-3e60-39ff-8d5d-f4343ee72fd7.jpg" alt="ingecid" />
+  <mj-column width="25%" padding-top="10px">
+    <mj-image width="77px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e11e178e-3e60-39ff-8d5d-f4343ee72fd7.jpg" alt="ingecid" href="https://ingecid.es" />
   </mj-column>
 </mj-section>
 
 <!-- Fila 5 -->
 <mj-section background-color="#ffffff" padding="0 0 20px">
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b4d412ef-bfc1-d92e-f064-3f5a05f40c94.jpg" alt="seys" />
+    <mj-image width="85px" src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b4d412ef-bfc1-d92e-f064-3f5a05f40c94.jpg" alt="seys" href="https://www.seysmedioambiente.com" />
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/db7c3c4a-e40f-f216-014d-e263803cdcd2.jpg" alt="uc" />
+    <mj-image width="52px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/db7c3c4a-e40f-f216-014d-e263803cdcd2.jpg" alt="uc" href="https://web.unican.es" />
   </mj-column>
   <mj-column width="25%" border-right="1px solid rgba(76,167,219,0.15)">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/508128ff-72d7-0aef-d2a8-3068219a34fc.jpg" alt="awge" />
+    <mj-image width="54px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/508128ff-72d7-0aef-d2a8-3068219a34fc.jpg" alt="awge" href="https://awgetechnologies.eu" />
   </mj-column>
   <mj-column width="25%">
-    <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/523a1103-0985-f3ca-e83b-8f207114c356.jpg" alt="reinosa" />
+    <mj-image width="81px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/523a1103-0985-f3ca-e83b-8f207114c356.jpg" alt="reinosa" href="https://reinosafc.com/" />
   </mj-column>
 </mj-section>
 
     <!-- ================= FOOTER ================= -->
-    <mj-section background-color="#3C3C3B" padding="20px">
-      <mj-column>
-        <mj-text font-size="14px" color="#ffffff" align="center">
-          ¡Síguenos en redes!
-        </mj-text>
-        <mj-social font-size="13px" icon-size="30px" mode="horizontal" align="center">
-          <mj-social-element name="linkedin" href="https://linkedin.com" />
-          <mj-social-element name="web" href="https://cinc.com" />
-        </mj-social>
-        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/295e3791-1021-5d52-7330-8be2042b8956.png" width="77px" alt="logo" />
-      </mj-column>
-    </mj-section>
+  <mj-section background-color="#3C3C3B" padding="20px">
+  <mj-column>
+
+    <mj-text font-size="14px" color="#ffffff" align="center" padding-bottom="12px">
+      ¡Síguenos en redes!
+    </mj-text>
+
+    <!-- tabla centrada con 2 iconos -->
+    <mj-table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+      <tr>
+        <td align="right" style="padding-right:10px;">
+          <a href="https://es.linkedin.com/company/cincantabria" target="_blank" rel="noreferrer">
+            <img src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/3ea41c55-7df9-6436-62d7-0891bdc62955.png"
+                 width="36" height="36" alt="LinkedIn" style="display:block; border:0; line-height:0;" />
+          </a>
+        </td>
+        <td style="padding-left:10px;">
+          <a href="https://cincantabria.es/" target="_blank" rel="noreferrer">
+            <img src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/be90a446-9357-f06f-544c-4fa8bafa21e0.png"
+                 width="36" height="36" alt="Web" style="display:block; border:0; line-height:0;" />
+          </a>
+        </td>
+      </tr>
+    </mj-table>
+
+    <!-- logo debajo -->
+    <mj-image
+      src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/295e3791-1021-5d52-7330-8be2042b8956.png"
+      width="77px"
+      alt="logo"
+      padding-top="16px"
+      align="center"
+    />
+  </mj-column>
+</mj-section>
+
 
   </mj-body>
 </mjml>
