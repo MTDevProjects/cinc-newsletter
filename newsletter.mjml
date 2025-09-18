@@ -11,7 +11,7 @@
     <!-- ================= HERO ================= -->
     <mj-section background-url="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/bdc1cf73-0e06-7108-cf12-60b5de255c5f.png" background-size="cover" background-repeat="no-repeat" padding="24px">
       <mj-column>
-        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/20250043-5f1a-3ddf-5d3a-40ca99ac6427.png" width="129px" alt="Logo CINC" />
+        <mj-image src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/e93bf63b-e288-40ec-edd0-e8ddb97e1b78.png" width="153px" alt="Logo CINC" />
         <mj-text font-size="36px" font-weight="400" line-height="39px" color="#ffffff" align="center" padding="32px 0 16px 0">
           Bienvenidos a nuestra <span style="font-weight:800;">Newsletter</span>
         </mj-text>
@@ -234,7 +234,7 @@
     <mj-image width="81px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/961b7f5d-4074-b9d0-702c-6e51a2324ab6.jpg" alt="ensa" href="https://www.ensa.es" /> 
   </mj-column>
   <mj-column width="25%">
-    <mj-image width="98px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/3bec30ee-7d54-f7e5-6af8-405dc73af01f.png" alt="celsa" href="https://globalsteelwire.com/en/" /> 
+    <mj-image width="85px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/b022b273-6be3-c70c-9ff4-24b997d51f22.png" alt="celsa" href="https://globalsteelwire.com/en/" /> 
   </mj-column>
 </mj-section>
 
@@ -282,7 +282,7 @@
     <mj-image width="54px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/508128ff-72d7-0aef-d2a8-3068219a34fc.jpg" alt="awge" href="https://awgetechnologies.eu" />
   </mj-column>
   <mj-column width="25%">
-    <mj-image width="81px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/523a1103-0985-f3ca-e83b-8f207114c356.jpg" alt="reinosa" href="https://reinosafc.com/" />
+    <mj-image width="81px"src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/a6496b61-fe8c-0ebe-5b04-b0eb1082ddd9.png" alt="reinosa" href="https://reinosafc.com/" />
   </mj-column>
 </mj-section>
 
@@ -314,8 +314,8 @@
 
     <!-- logo debajo -->
     <mj-image
-      src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/6256740d-83dc-4d38-814b-e2e621859fd2.png"
-      width="77px"
+      src="https://mcusercontent.com/ba7c4b0db050927bf75d0a594/images/0a0d65bc-8377-452d-fbc1-ce4966bfc598.png"
+      width="99px"
       alt="logo"
       padding-top="16px"
       align="center"
